@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               SOOT-SQL2Tree
-version:            0.01
+version:            0.02
 abstract:           Make a TTree from a SQL SELECT
 author:
     - Steffen Mueller <smueller@cpan.org>
